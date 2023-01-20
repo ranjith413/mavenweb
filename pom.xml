@@ -9,7 +9,7 @@
   <version>1.0</version>
   <packaging>war</packaging>
 
-  <name>mavenweb Maven Webapp</name>
+  <name>mavenwebApp</name>
   <url>http://www.example.com</url>
 
   <properties>
